@@ -1,0 +1,1 @@
+This page describes how to build a circuit that can be used to simulate Sclaextric car id chip infrared signals.  the project includes sill of materials yo build your own, tinkercad diagrams to show you how to mayout the circuit, circuit diagrams so you can build your own circuit boards.  
